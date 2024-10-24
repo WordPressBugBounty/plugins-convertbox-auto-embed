@@ -3,11 +3,11 @@
 Plugin Name: ConvertBox Auto Embed WordPress plugin
 Plugin URI: https://convertbox.com/
 Description: Automatically add your ConvertBox embed code into your WordPress site!
-Version: 1.0.20
+Version: 1.1.2
 Author: ConvertBox
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
-Tested up to: 6.1.1
+Tested up to: 6.6.2
 Requires at least: 3.0.0
 */
 

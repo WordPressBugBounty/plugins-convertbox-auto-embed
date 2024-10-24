@@ -1,9 +1,9 @@
 === ConvertBox Auto Embed WordPress plugin ===
-Contributors: convertbox
+Contributors: convertbar
 Tags: convertbox, convert box
 Requires at least: 3.0.0
-Tested up to: 6.0.2
-Stable tag: 1.0.20
+Tested up to: 6.6.2
+Stable tag: 1.1.2
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
